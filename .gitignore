@@ -1,0 +1,14 @@
+# Retail datasets and generated artifacts may contain customer-level data.
+data/
+models/
+reports/
+
+# Local Python and editor files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.streamlit/secrets.toml
+src/tempCodeRunnerFile.py
